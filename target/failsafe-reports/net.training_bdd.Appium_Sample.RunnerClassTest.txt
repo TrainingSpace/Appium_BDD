@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.training_bdd.Appium_Sample.RunnerClassTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.275 sec - in net.training_bdd.Appium_Sample.RunnerClassTest
